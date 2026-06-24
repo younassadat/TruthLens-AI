@@ -126,7 +126,7 @@ truthlens/
 
 ## Team
 
-- Technical Lead: Mr. Younas Sadat
+- Technical Lead: Younas Sadat
 - Co-founder: Yahya Sadat
 
 **QuantumHacks 2026 · Submission Deadline: August 20, 2026**
